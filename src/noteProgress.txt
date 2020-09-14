@@ -1,0 +1,12 @@
+03-09-kamis  
+membuat workspace dengan package 
+nama workspace = catkin_krsbi
+package = imageProcessing
+			- deteksiBola.py
+			- deteksiGawang.py
+			- deteksiGaris.py
+			- deteksiBase.py
+			- deteksiTiang.py
+		= manuvering
+			-lari
+			

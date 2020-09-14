@@ -1,0 +1,8 @@
+prefix=/home/robotis/catkin_krsbi/install
+
+Name: CMdeteksiBola
+Description: Description of CMdeteksiBola
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

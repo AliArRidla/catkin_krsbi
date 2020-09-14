@@ -1,0 +1,8 @@
+prefix=/home/robotis/catkin_krsbi/install
+
+Name: berputar
+Description: Description of berputar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

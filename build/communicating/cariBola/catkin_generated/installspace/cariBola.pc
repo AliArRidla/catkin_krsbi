@@ -1,0 +1,8 @@
+prefix=/home/robotis/catkin_krsbi/install
+
+Name: cariBola
+Description: Description of cariBola
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

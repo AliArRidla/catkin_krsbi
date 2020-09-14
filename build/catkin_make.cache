@@ -1,0 +1,2 @@
+LKR:LL:LMB:communicating:imageProcessing:manuvering/berputar:manuvering/giring:manuvering/keseimbangan:manuvering/lari:manuvering/tendang
+-DCATKIN_DEVEL_PREFIX=/home/robotis/catkin_krsbi/devel -DCMAKE_INSTALL_PREFIX=/home/robotis/catkin_krsbi/install -G Unix Makefiles
